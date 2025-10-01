@@ -6,7 +6,7 @@ This repository contains the code corresponding to the paper *Existence and orbi
 
 ## How to run the proofs
 
-Run one of the following files to reproduce the corresponding theorem in the paper:
+Run one of the following files to reproduce the results in the paper:
 
 - [`SBinfinite_proof_c12.jl`](SBinfinite_proof_c12.jl) — corresponds to **Theorem 6.1**.
 - [`SBinfinite_proof_c13.jl`](SBinfinite_proof_c13.jl) — corresponds to **Theorem 6.2**.
